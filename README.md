@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Olá, eu sou Gabriel! 👋
 
 Seja bem-vindo(a) ao meu perfil no GitHub! Estou iniciando minha jornada na área de tecnologia.
